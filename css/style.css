@@ -18,7 +18,7 @@ div {
 /*all document stuff*/
 
 body {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Vollkorn', serif;
 }
 
 * {
@@ -47,8 +47,9 @@ a {
 }
 
 
-h {
+h1, h2, h3, h4, h5, h6 {
 	padding: 1em;
 	margin: 0;
 	text-transform: uppercase;
+	font-family: 'Josefin Sans', sans-serif;
 }
