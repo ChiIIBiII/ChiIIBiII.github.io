@@ -1,50 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PaulsBlog</title>
+    <title>paul&#39;s_ite</title>
     <link>https://chiiibiii.github.io/</link>
-    <description>Recent content on PaulsBlog</description>
+    <description>Recent content on paul&#39;s_ite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2017 12:10:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chiiibiii.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Zweiter Post</title>
-      <link>https://chiiibiii.github.io/blog/2post/</link>
-      <pubDate>Mon, 23 Oct 2017 12:10:00 +0000</pubDate>
+      <title>About me</title>
+      <link>https://chiiibiii.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chiiibiii.github.io/blog/2post/</guid>
-      <description>I just want to see how a second post would look like</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://chiiibiii.github.io/sites/about/</link>
-      <pubDate>Mon, 23 Oct 2017 12:10:00 +0000</pubDate>
-      
-      <guid>https://chiiibiii.github.io/sites/about/</guid>
-      <description>Layout &amp;amp; Grafikdesign Content</description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>https://chiiibiii.github.io/sites/work/</link>
-      <pubDate>Mon, 23 Oct 2017 12:10:00 +0000</pubDate>
-      
-      <guid>https://chiiibiii.github.io/sites/work/</guid>
-      <description>photovideo Content</description>
-    </item>
-    
-    <item>
-      <title>Erster Post</title>
-      <link>https://chiiibiii.github.io/blog/firstblog/</link>
-      <pubDate>Mon, 23 Oct 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://chiiibiii.github.io/blog/firstblog/</guid>
-      <description>This is a cool first post!</description>
+      <guid>https://chiiibiii.github.io/page/about/</guid>
+      <description> Bored guy from Austria living in San Salvador doing social service and trying to learn one thing or two about web developement on the way.
+have a great day </description>
     </item>
     
   </channel>
