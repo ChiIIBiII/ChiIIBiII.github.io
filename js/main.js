@@ -105,9 +105,9 @@ var main = {
         main.setImg(src, desc, position);
       img.remove();
         getNextImg();
-      }, 12000);
+      }, 1000);
         //});
-      }, 18000);
+      }, 6000);
       };
 
     // If there are multiple images, cycle through them
